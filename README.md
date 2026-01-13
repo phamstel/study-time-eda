@@ -30,6 +30,7 @@ Datasets:
   - Added 'Day of the Week' to analyze patterns by day
   - Added 'In class?' (Yes/No) to account for missing values
   - Handled missing or inconsistent data where necessary
+  - Added 'Focus' column to differentiate between the different courses, lectures and club stuff
 
 All EDA and visualizations are based on the clean dataset.
   
