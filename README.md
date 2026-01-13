@@ -21,7 +21,6 @@ In this project, I tracked all my study sessions for a month during the Fall 202
 - Github
 
 ## Tableau Dashboard link
-[View Dashboard on Tableau Public](link added soon)
 *Dashboard will be added after visualization.*
 
 ## Next Steps
