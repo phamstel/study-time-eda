@@ -20,6 +20,19 @@ and work more efficiently.
 - Are certain subjects/tasks more productive than others?
 - Do I consistently perform differently depending on the day of the week?
 
+## Data
+Datasets:
+- ***Raw dataset:*** untouched, original data
+- ***Cleaned dataset:*** processed version used for analysis, cleaning steps include:
+  - Removed 'Notes' column
+  - Standardized categorical variables (e.g., 'With Someone?' and 'Music?' converted from 0/1 to Yes/No)
+  - Added 'Duration' column, calculated in minutes
+  - Added 'Day of the Week' to analyze patterns by day
+  - Added 'In class?' (Yes/No) to account for missing values
+  - Handled missing or inconsistent data where necessary
+
+All EDA and visualizations are based on the clean dataset.
+  
 ## Key Insights
 *Insights will be added after analysis.*
 
