@@ -32,5 +32,5 @@ and work more efficiently.
 *Dashboard will be added after visualization.*
 
 ## Next Steps
-My next step is to apply these insights during the Winter 2026 Semester, track my study sessions, and see 
+My next step is to apply these insights during the Winter 2026 Semester by tracking my study sessions to see
 how these changes improve my productivity.
