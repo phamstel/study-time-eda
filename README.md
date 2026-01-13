@@ -2,13 +2,21 @@
 Exploratory data analysis of personal study time using Excel and Tableau to uncover productivity patterns.
 
 ## Project Overview
-In this project, I tracked all my study sessions for a month during the Fall 2025 semester in Excel, and key insights were displayed in Tableau Public.
+In this project, I tracked all my study sessions for a month during the Fall 2025 semester in Excel, and 
+key insights were displayed in Tableau Public.
+
+## Why This Project
+This project was motivated by a desire to better understand my own study habits and improve productivity. 
+By tracking my study sessions in Excel, I can apply these insights to plan my schedule more effectively 
+and work more efficiently.
 
 ## Key Questions Explored
 - When am I most productive? Morning, afternoon, or evening?
 - Do larger blocks of productivity or smaller blocks work better?
-- Do breaks help boost productivity? How does taking a break affect the next session’s productivity? Are short breaks better than long breaks?
-- What locations make me more productive? Does location matter? Does staying in the same location for a long period of time work better?
+- Do breaks help boost productivity? How does taking a break affect the next session’s productivity? 
+  Are short breaks better than long breaks?
+- What locations make me more productive? Does location matter? 
+  Does staying in the same location for a long period of time work better?
 - Are certain subjects/tasks more productive than others?
 - Do I consistently perform differently depending on the day of the week?
 
@@ -24,4 +32,5 @@ In this project, I tracked all my study sessions for a month during the Fall 202
 *Dashboard will be added after visualization.*
 
 ## Next Steps
-My next step is to apply these insights during the Winter 2026 Semester, track my study sessions, and see how these changes improve my productivity.
+My next step is to apply these insights during the Winter 2026 Semester, track my study sessions, and see 
+how these changes improve my productivity.
