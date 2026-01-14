@@ -11,14 +11,22 @@ By tracking my study sessions in Excel, I can apply these insights to plan my sc
 and work more efficiently.
 
 ## Key Questions Explored
-- When am I most productive? Morning, afternoon, or evening?
-- Do larger blocks of productivity or smaller blocks work better?
-- Do breaks help boost productivity? How does taking a break affect the next session’s productivity? 
-  Are short breaks better than long breaks?
-- What locations make me more productive? Does location matter? 
-  Does staying in the same location for a long period of time work better?
-- Are certain subjects/tasks more productive than others?
-- Do I consistently perform differently depending on the day of the week?
+Sorted into the following categories.
+
+- **Numerical Outcomes**
+  - Do larger blocks of productivity or smaller blocks work better?
+  - Does listening to music affect my productivity score?
+  - Are short breaks better than long breaks?
+  - What is the average productivity score?
+- **Categorical Outcomes**
+  - When am I most productive? Morning, afternoon, or evening?
+  - What locations make me more productive? Does location matter?
+  - Does staying in the same location for a long period of time work better?
+  - Are certain subjects/tasks more productive than others?
+  - Do I consistently perform differently depending on the day of the week?
+- **Time-based Trends**
+  - Do breaks help boost productivity?
+  - How does taking a break affect the next session’s productivity? 
 
 ## Data
 Datasets:
