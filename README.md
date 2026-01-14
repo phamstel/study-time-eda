@@ -39,6 +39,7 @@ Datasets:
   - Added 'In class?' (Yes/No) to account for missing values
   - Handled missing or inconsistent data where necessary
   - Added 'Focus' column to differentiate between the different courses, lectures and club stuff
+  - Added 'Break Duration' column to analyze break related things
 
 All EDA and visualizations are based on the clean dataset.
   
