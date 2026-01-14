@@ -40,6 +40,7 @@ Datasets:
   - Handled missing or inconsistent data where necessary
   - Added 'Focus' column to differentiate between the different courses, lectures and club stuff
   - Added 'Break Duration' column to analyze break related things
+  - Added 'Time of Day' column, classified by morning, afternoon, and evening
 
 All EDA and visualizations are based on the clean dataset.
   
